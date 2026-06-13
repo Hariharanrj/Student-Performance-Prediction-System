@@ -1,7 +1,6 @@
 # 🎓 Student Performance Prediction System
 ### Using Machine Learning & Explainable AI
 
-> **B.Tech Final Year Project — Artificial Intelligence & Data Science**  
 > An end-to-end ML system that predicts student academic risk, explains model decisions with SHAP, and surfaces actionable interventions through an interactive dashboard.
 
 ---
